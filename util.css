@@ -1,0 +1,28 @@
+.btn{
+    display: inline-block;
+   background-color:#25be7e ;
+   /* color: #fff; */
+   cursor: pointer;
+   border-radius: 50px;
+   outline: none;
+   font-weight: 500px;
+   text-transform: uppercase;
+   padding: 1em 2.5em;
+   margin-top: 3rem;
+   text-decoration: none;
+   
+
+}
+
+.btn-primary{
+    color: #fff;
+    background: #25be7e;
+
+}
+
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+}
+
